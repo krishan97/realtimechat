@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+.imgdowload{ border:1px solid #fefefe;padding:2px;margin-left:10px;}
+#sendphoto{
+display:none;
+}
+#chatt{
+height:500px;
+border: 1px solid #eee;
+height: 537px;
+width: 500px;	
+overflow:scroll;
+}
+.timesent{
+color:#000;	
+}
+#messagee{  height: 34px;
+    margin: 5px;
+    padding: 5px;
+    width: 381px !important;}
+#chat{
+height:500px;
+border: 1px solid #eee;
+height: 537px;
+width: 500px;
+overflow:scroll;
+}
+.csubmit{padding: 5px;
+    width: 200px;}
+#contentWrap{
+ display:none;
+}
+#displayUser{width:283px; margin:10px; float:right; display:none;}
+.users{ color:red;}
+.RoomList{color:blue;}
+#chatWrap{
+float:left;
+}
+#message{height: 34px;
+    margin: 5px;
+    padding: 5px;
+    width: 381px !important;}
+#createRoom{width:400px; margin:10px; float:right;}
+.newRoomName{width:155px;}
+.newRoom{width:90px;}
+.msg{color:black;  color: black;
+    margin: 10px;
+    padding: 10px;}
+.error{color:red;}
+.whisper{color:green;}
